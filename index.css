@@ -3,14 +3,14 @@ body {
     padding: 0;
     box-sizing: border-box;
 }
-#logo {
+/* #logo {
     width: 20vh;
     height: auto;
     position: fixed;
     top: 5px;
     right: 5px;
     border-radius: 100px;
-}
+} */
 .container {
     
     height: 100%;
